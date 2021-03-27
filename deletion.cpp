@@ -1,10 +1,10 @@
+//file for deletion in a linked list
 #include<bits/stdc++.h>
 using namespace std;
 class Node{
     public:
          int data;
-         Node* next;
-
+         Node* next;                                 
 };
     //   deletion from beginning
 Node* beg(Node* head)
