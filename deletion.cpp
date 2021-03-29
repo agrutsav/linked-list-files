@@ -14,7 +14,7 @@ Node* beg(Node* head)
     free(ptr);
     return head;
 }
-        // deletion at index
+        // it is different one understand it clearly taking differne example
 Node* bet(Node* head, int index)
 {
     Node* p=head;
